@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fffeb1-8d26-4169-b671-18ef0872a8d7" name="Default Changelist" comment="Coding in Lab607&#10;    回顾了网易8.8当天Java题及前端题目命名修改">
-      <change afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/back-2.素数分解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/front-1.单词词频.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/front-2.铺瓷砖.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/front-3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/front-3.三种难度题目安排模拟赛的场次.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NetEase-20-08-08/front-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/front-1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NetEase-20-08-08/front-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/front-2.js" afterDir="false" />
-    </list>
+    <list default="true" id="59fffeb1-8d26-4169-b671-18ef0872a8d7" name="Default Changelist" comment="Coding in Lab607&#10;    回顾了网易8.8当天前端题目,并创建了自己风格的markdown题目说明文件，下决心写我的第一个开源博客-关于2021届各大厂秋招算法题解." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +93,7 @@
       <workItem from="1598180150029" duration="3340000" />
       <workItem from="1598262133484" duration="2912000" />
       <workItem from="1598266133418" duration="58000" />
-      <workItem from="1598266213414" duration="7144000" />
+      <workItem from="1598266213414" duration="7314000" />
     </task>
     <task id="LOCAL-00001" summary="Coding in Lab607&#10;    回顾了网易8.8当天Java题及前端题目命名修改">
       <created>1598190863572</created>
@@ -111,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598190863572</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Coding in Lab607&#10;    回顾了网易8.8当天前端题目,并创建了自己风格的markdown题目说明文件，下决心写我的第一个开源博客-关于2021届各大厂秋招算法题解.">
+      <created>1598275451029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598275451029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Coding in Lab607&#10;    回顾了网易8.8当天Java题及前端题目命名修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding in Lab607&#10;    回顾了网易8.8当天Java题及前端题目命名修改" />
+    <MESSAGE value="Coding in Lab607&#10;    回顾了网易8.8当天前端题目,并创建了自己风格的markdown题目说明文件，下决心写我的第一个开源博客-关于2021届各大厂秋招算法题解." />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding in Lab607&#10;    回顾了网易8.8当天前端题目,并创建了自己风格的markdown题目说明文件，下决心写我的第一个开源博客-关于2021届各大厂秋招算法题解." />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="91" key="#Plugins" timestamp="1598266193921">
@@ -145,30 +144,30 @@
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="522" y="250" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598265577851" />
-    <state width="1494" height="167" key="GridCell.Tab.0.bottom" timestamp="1598274024722">
+    <state width="1494" height="167" key="GridCell.Tab.0.bottom" timestamp="1598275609681">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state width="1379" height="240" key="GridCell.Tab.0.bottom/62.0.1401.914@62.0.1401.914" timestamp="1596810327750" />
-    <state width="1494" height="167" key="GridCell.Tab.0.bottom/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598274024722" />
-    <state width="1494" height="167" key="GridCell.Tab.0.center" timestamp="1598274024722">
+    <state width="1494" height="167" key="GridCell.Tab.0.bottom/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275609681" />
+    <state width="1494" height="167" key="GridCell.Tab.0.center" timestamp="1598275609681">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state width="1379" height="240" key="GridCell.Tab.0.center/62.0.1401.914@62.0.1401.914" timestamp="1596810327750" />
-    <state width="1494" height="167" key="GridCell.Tab.0.center/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598274024722" />
-    <state width="1494" height="167" key="GridCell.Tab.0.left" timestamp="1598274024722">
+    <state width="1494" height="167" key="GridCell.Tab.0.center/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275609681" />
+    <state width="1494" height="167" key="GridCell.Tab.0.left" timestamp="1598275609681">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state width="1379" height="240" key="GridCell.Tab.0.left/62.0.1401.914@62.0.1401.914" timestamp="1596810327750" />
-    <state width="1494" height="167" key="GridCell.Tab.0.left/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598274024722" />
-    <state width="1494" height="167" key="GridCell.Tab.0.right" timestamp="1598274024722">
+    <state width="1494" height="167" key="GridCell.Tab.0.left/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275609681" />
+    <state width="1494" height="167" key="GridCell.Tab.0.right" timestamp="1598275609681">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state width="1379" height="240" key="GridCell.Tab.0.right/62.0.1401.914@62.0.1401.914" timestamp="1596810327750" />
-    <state width="1494" height="167" key="GridCell.Tab.0.right/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598274024722" />
-    <state x="423" y="183" key="Vcs.Push.Dialog.v2" timestamp="1598190872518">
+    <state width="1494" height="167" key="GridCell.Tab.0.right/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275609681" />
+    <state x="423" y="183" key="Vcs.Push.Dialog.v2" timestamp="1598275602646">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
-    <state x="423" y="183" key="Vcs.Push.Dialog.v2/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598190872518" />
+    <state x="423" y="183" key="Vcs.Push.Dialog.v2/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275602646" />
     <state x="494" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1598264963686">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
