@@ -16,10 +16,24 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fffeb1-8d26-4169-b671-18ef0872a8d7" name="Default Changelist" comment="Coding in Lab607&#10;    回顾了网易8.8当天前端题目,并创建了自己风格的markdown题目说明文件，下决心写我的第一个开源博客-关于2021届各大厂秋招算法题解." />
+    <list default="true" id="59fffeb1-8d26-4169-b671-18ef0872a8d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetEase-20-08-08/index4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/didi-20/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/didi-20/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/didi-20/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +50,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fm4iRNp5hcOOcL4DhtfafqifHj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,38 +60,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/NetEase-20-08-08" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Program Files (x86)\WebStormProjects\oj-exam-platform\src\NetEase-20-08-08" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Node.js.front-3.js">
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/didi-17/1.js" working-dir="$PROJECT_DIR$/src/didi-17">
+  <component name="RunManager" selected="Node.js.2.js">
+    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/didi-20/1.js" working-dir="$PROJECT_DIR$/src/didi-20">
       <method v="2" />
     </configuration>
-    <configuration name="back-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/NetEase-20-08-08/back-1.js" working-dir="$PROJECT_DIR$/src/NetEase-20-08-08">
+    <configuration name="2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/didi-20/2.js" working-dir="$PROJECT_DIR$/src/didi-20">
       <method v="2" />
     </configuration>
-    <configuration name="front-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/NetEase-20-08-08/front-2.js" working-dir="$PROJECT_DIR$/src/NetEase-20-08-08">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/index.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
-    <configuration name="front-3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/NetEase-20-08-08/front-3.js" working-dir="$PROJECT_DIR$/src/NetEase-20-08-08">
-      <method v="2" />
-    </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/test.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/didi-20/test.js" working-dir="$PROJECT_DIR$/src/didi-20">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.front-3.js" />
-        <item itemvalue="Node.js.front-2.js" />
-        <item itemvalue="Node.js.back-1.js" />
-        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.2.js" />
         <item itemvalue="Node.js.1.js" />
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
   </component>
@@ -89,88 +95,105 @@
       <option name="presentableId" value="Default" />
       <updated>1596810060639</updated>
       <workItem from="1596810061735" duration="360000" />
-      <workItem from="1597917897740" duration="10788000" />
-      <workItem from="1598180150029" duration="3340000" />
-      <workItem from="1598262133484" duration="2912000" />
-      <workItem from="1598266133418" duration="58000" />
-      <workItem from="1598266213414" duration="7314000" />
+      <workItem from="1598004103345" duration="6948000" />
     </task>
-    <task id="LOCAL-00001" summary="Coding in Lab607&#10;    回顾了网易8.8当天Java题及前端题目命名修改">
-      <created>1598190863572</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1598190863572</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Coding in Lab607&#10;    回顾了网易8.8当天前端题目,并创建了自己风格的markdown题目说明文件，下决心写我的第一个开源博客-关于2021届各大厂秋招算法题解.">
-      <created>1598275451029</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1598275451029</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Coding in Lab607&#10;    回顾了网易8.8当天Java题及前端题目命名修改" />
-    <MESSAGE value="Coding in Lab607&#10;    回顾了网易8.8当天前端题目,并创建了自己风格的markdown题目说明文件，下决心写我的第一个开源博客-关于2021届各大厂秋招算法题解." />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding in Lab607&#10;    回顾了网易8.8当天前端题目,并创建了自己风格的markdown题目说明文件，下决心写我的第一个开源博客-关于2021届各大厂秋招算法题解." />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="423" y="91" key="#Plugins" timestamp="1598266193921">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state width="1379" height="270" key="GridCell.Tab.0.bottom" timestamp="1598016561733">
+      <screen x="62" y="0" width="1401" height="914" />
     </state>
-    <state x="423" y="91" key="#Plugins/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598266193921" />
-    <state x="522" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598265577851">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state width="1379" height="270" key="GridCell.Tab.0.bottom/62.0.1401.914@62.0.1401.914" timestamp="1598016561733" />
+    <state width="1379" height="270" key="GridCell.Tab.0.center" timestamp="1598016561733">
+      <screen x="62" y="0" width="1401" height="914" />
     </state>
-    <state x="522" y="250" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598265577851" />
-    <state width="1494" height="167" key="GridCell.Tab.0.bottom" timestamp="1598275609681">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state width="1379" height="270" key="GridCell.Tab.0.center/62.0.1401.914@62.0.1401.914" timestamp="1598016561733" />
+    <state width="1379" height="270" key="GridCell.Tab.0.left" timestamp="1598016561733">
+      <screen x="62" y="0" width="1401" height="914" />
     </state>
-    <state width="1379" height="240" key="GridCell.Tab.0.bottom/62.0.1401.914@62.0.1401.914" timestamp="1596810327750" />
-    <state width="1494" height="167" key="GridCell.Tab.0.bottom/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275609681" />
-    <state width="1494" height="167" key="GridCell.Tab.0.center" timestamp="1598275609681">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state width="1379" height="270" key="GridCell.Tab.0.left/62.0.1401.914@62.0.1401.914" timestamp="1598016561733" />
+    <state width="1379" height="270" key="GridCell.Tab.0.right" timestamp="1598016561733">
+      <screen x="62" y="0" width="1401" height="914" />
     </state>
-    <state width="1379" height="240" key="GridCell.Tab.0.center/62.0.1401.914@62.0.1401.914" timestamp="1596810327750" />
-    <state width="1494" height="167" key="GridCell.Tab.0.center/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275609681" />
-    <state width="1494" height="167" key="GridCell.Tab.0.left" timestamp="1598275609681">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state width="1379" height="270" key="GridCell.Tab.0.right/62.0.1401.914@62.0.1401.914" timestamp="1598016561733" />
+    <state width="1379" height="297" key="GridCell.Tab.1.bottom" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
     </state>
-    <state width="1379" height="240" key="GridCell.Tab.0.left/62.0.1401.914@62.0.1401.914" timestamp="1596810327750" />
-    <state width="1494" height="167" key="GridCell.Tab.0.left/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275609681" />
-    <state width="1494" height="167" key="GridCell.Tab.0.right" timestamp="1598275609681">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state width="1379" height="297" key="GridCell.Tab.1.bottom/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.1.center" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
     </state>
-    <state width="1379" height="240" key="GridCell.Tab.0.right/62.0.1401.914@62.0.1401.914" timestamp="1596810327750" />
-    <state width="1494" height="167" key="GridCell.Tab.0.right/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275609681" />
-    <state x="423" y="183" key="Vcs.Push.Dialog.v2" timestamp="1598275602646">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state width="1379" height="297" key="GridCell.Tab.1.center/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.1.left" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
     </state>
-    <state x="423" y="183" key="Vcs.Push.Dialog.v2/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598275602646" />
-    <state x="494" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1598264963686">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state width="1379" height="297" key="GridCell.Tab.1.left/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.1.right" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
     </state>
-    <state x="494" y="190" width="672" height="678" key="search.everywhere.popup/62.0.1538.900/1600.0.1024.728@62.0.1538.900" timestamp="1598264963686" />
+    <state width="1379" height="297" key="GridCell.Tab.1.right/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.2.bottom" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state width="1379" height="297" key="GridCell.Tab.2.bottom/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.2.center" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state width="1379" height="297" key="GridCell.Tab.2.center/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.2.left" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state width="1379" height="297" key="GridCell.Tab.2.left/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.2.right" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state width="1379" height="297" key="GridCell.Tab.2.right/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.3.bottom" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state width="1379" height="297" key="GridCell.Tab.3.bottom/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.3.center" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state width="1379" height="297" key="GridCell.Tab.3.center/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.3.left" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state width="1379" height="297" key="GridCell.Tab.3.left/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state width="1379" height="297" key="GridCell.Tab.3.right" timestamp="1598016540896">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state width="1379" height="297" key="GridCell.Tab.3.right/62.0.1401.914@62.0.1401.914" timestamp="1598016540896" />
+    <state x="568" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598004460777">
+      <screen x="62" y="0" width="1401" height="914" />
+    </state>
+    <state x="568" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1401.914@62.0.1401.914" timestamp="1598004460777" />
   </component>
 </project>
