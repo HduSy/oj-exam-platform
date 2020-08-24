@@ -1,3 +1,6 @@
+## 单词词频
+代码：
+```javascript
 const readline = require('readline')
 const rl = readline.createInterface({
     input: process.stdin,
@@ -36,3 +39,5 @@ function deal(arr) {
     }
     console.log(res)
 }
+
+```
